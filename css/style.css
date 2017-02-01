@@ -1,0 +1,123 @@
+body {
+	background-color: #222222;
+	
+}
+
+#block-1 {
+	height: 500px;
+	padding-top: 15px;
+	background-image: url('../img/mainbg.jpg');
+}
+
+#block-2 {
+	height: 400px;
+	background-image: url('../img/1.png');
+	padding-top: 15px;
+}
+
+.container {
+	width: 759px;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-style: 'PT Sans', sans-serif;
+}
+
+.white {	
+	color: #FCFFFD;
+}
+
+.yellow {
+	color: #FFDE01;
+}
+
+.grey {
+	color: #333333;
+}
+
+.PTSerif {
+	font-family: 'PT Serif', serif;
+}
+
+.cursive {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.dashed {
+	text-decoration-style: dashed;
+}
+
+.size11 {
+	font-size: 11px;
+}
+
+.size12 {
+	font-size: 12px;
+}
+
+.size26 {
+	font-size: 26px;
+	line-height: 1.2;
+}
+
+.size20 {
+	font-size: 20px;
+	line-height: 1.2;
+}
+
+.size30 {
+	font-size: 30px;
+}
+
+#phnumbers {
+	text-align: right;
+}
+
+.row {
+	padding: 0px;
+	margin: 0px;
+}
+
+#header-text {
+	padding-top: 140px;
+	padding-bottom: 50px;
+	padding-right: 100px;
+	
+}
+
+.vertical-text {
+	writing-mode: vertical-rl;
+	padding-top: 10px;
+}
+
+.button-style-1 {
+	background-color: #FFDE01;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 13px;
+	width: 100px;
+	height: 28px;
+	border-color: #FFDE01;
+	border: 1px;
+	border-radius: 3px;
+	margin-top: 8px;
+}
+
+.col-md-3 {
+	padding: 0px;
+}
+
+button>a {
+	color: #040001;
+}
+
+#update {
+	width: 50%;
+	height: 50%;
+}
+
+#text {
+	padding-right: 30%;
+}
